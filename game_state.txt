@@ -1,0 +1,40 @@
+Character
+John,100,10,1,0,0,0,27
+Inventory
+ItemsAtLocation
+0,1,Old Sword,Health Potion
+1,1,Magic Scroll,Ancient Scroll
+1,3,Health Potion,Gold Coin
+2,0,Shield
+2,2,Ancient Scroll,Gold Coin
+3,2,Magic Scroll,Health Potion
+4,3,Gold Coin
+Quests
+Aid the Drunkard,Not Started
+Baker's Dozen,Not Started
+Bandit Bounty,Not Started
+Blacksmith's Pact,Not Started
+Bridge Repair,Not Started
+Cairn of Courage,Not Started
+Defeat the Pests,Not Started
+Defend the Village,Not Started
+Enchanted Castle,Not Started
+Firefly Jar Rescue,Not Started
+Locate Hidden Relic,Not Started
+Lost City Relic,Not Started
+Lost Clown Nose,Not Started
+Lumberjack's Missing Axe,Not Started
+Mason Guild's Supply Chain,Not Started
+Mysterious Stranger's Herb Hunt,Not Started
+Night Watch Duty,Not Started
+Rebuild the Kingdom,Not Started
+Rescue Mission,Not Started
+Retrieve Ancient Scroll,Not Started
+River Rat Cleanup,Not Started
+Strange Markings Near the Cave,Not Started
+Test of Strength,Not Started
+The Scholar's Collection,Not Started
+The Way to a Giant's Heart,Not Started
+Toad's Eye Amulet,Not Started
+Wrath of the Wastes,Not Started
+---

@@ -72,9 +72,7 @@ def build_status_screen(player, location_name: str, coords: Tuple[int, int]) -> 
 
 def run_game_loop(player, current_quests, game_items):
     print()
-    print("Game commands:")
-    print("n = north, e = east, s = south, w = west")
-    print("m = view map; save = save game; q = quit")
+    print("Game commands: n,e,s,w = move; m = view map; save = save game; q = quit")
     while True:
         location_name = game_map.get(player.location, "Unknown")
         print(build_status_screen(player, location_name, player.location))
@@ -246,5 +244,8 @@ def game_loop():
 
 if __name__ == "__main__":
     game_loop()
+cd "c:\Users\bshol\OneDrive\Desktop\Python Final\Python-Final"
+.venv\Scripts\activate
+python main.py
 
 
